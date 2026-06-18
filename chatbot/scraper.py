@@ -1,69 +1,107 @@
+import re
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
 from pathlib import Path
+from urllib.parse import urlparse
 
-BASE_URL = "https://www.srm-sm.ma/"
-OUTPUT_FILE = Path("data/website/srm_website.txt")
+OUTPUT_DIR = Path("data/website")
+SITEMAP_URLS = [
+    "https://www.srm-sm.ma/wp-sitemap-posts-page-1.xml",
+]
 
-visited = set()
-texts = []
+SKIP_KEYWORDS = [
+    "sample-page", "homepage", "about-us", "blog", "shop", "cart",
+    "checkout", "my-account", "project-style", "our-team"
+]
 
 
-def is_valid_url(url):
-    parsed = urlparse(url)
-    return parsed.netloc == "www.srm-sm.ma" and url.startswith(BASE_URL)
+def slug_from_url(url):
+    path = urlparse(url).path.strip("/")
+    return path if path else "accueil"
+
+
+def clean_filename(name):
+    name = re.sub(r"[^a-zA-Z0-9_-]", "_", name)
+    return name[:80]
+
+
+def get_urls_from_sitemap(sitemap_url):
+    response = requests.get(sitemap_url, timeout=15)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, "xml")
+    urls = []
+
+    for loc in soup.find_all("loc"):
+        url = loc.get_text(strip=True)
+
+        if not any(skip in url for skip in SKIP_KEYWORDS):
+            urls.append(url)
+
+    return urls
 
 
 def clean_text(text):
-    lines = text.splitlines()
-    lines = [line.strip() for line in lines if line.strip()]
+    unwanted_lines = [
+        "Skip to content",
+        "Search",
+        "Search for:",
+        "Copyright © 2024 SRM All Rights Reserved.",
+        "*",
+    ]
+
+    lines = [line.strip() for line in text.splitlines()]
+    lines = [line for line in lines if line]
+    lines = [line for line in lines if line not in unwanted_lines]
+
     return "\n".join(lines)
 
-
-def scrape_page(url, depth=0, max_depth=2):
-    if url in visited or depth > max_depth:
-        return
-
+def scrape_page(url):
     print(f"Scraping: {url}")
-    visited.add(url)
 
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"Error scraping {url}: {e}")
-        return
+    response = requests.get(url, timeout=15)
+    response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    for tag in soup(["script", "style", "nav", "footer", "header"]):
+    for tag in soup(["script", "style", "nav", "footer", "header", "form"]):
         tag.decompose()
 
-    page_text = clean_text(soup.get_text())
+    title = soup.title.get_text(strip=True) if soup.title else slug_from_url(url)
+    text = clean_text(soup.get_text())
 
-    if page_text:
-        texts.append(f"\n\n===== PAGE: {url} =====\n\n{page_text}")
+    if len(text) < 100:
+        print(f"Skipped empty/weak page: {url}")
+    return
 
-    links = soup.find_all("a", href=True)
+    content = f"""URL: {url}
+TITLE: {title}
 
-    for link in links:
-        next_url = urljoin(url, link["href"]).split("#")[0]
+{text}
+"""
 
-        if is_valid_url(next_url):
-            scrape_page(next_url, depth + 1, max_depth)
+    filename = clean_filename(slug_from_url(url)) + ".txt"
+    file_path = OUTPUT_DIR / filename
+    file_path.write_text(content, encoding="utf-8")
 
 
 def main():
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    scrape_page(BASE_URL)
+    all_urls = []
 
-    OUTPUT_FILE.write_text("\n".join(texts), encoding="utf-8")
+    for sitemap_url in SITEMAP_URLS:
+        all_urls.extend(get_urls_from_sitemap(sitemap_url))
 
-    print("\nDone.")
-    print(f"Pages scraped: {len(visited)}")
-    print(f"Saved to: {OUTPUT_FILE}")
+    print(f"URLs found: {len(all_urls)}")
+
+    for url in all_urls:
+        try:
+            scrape_page(url)
+        except Exception as e:
+            print(f"Error scraping {url}: {e}")
+
+    print("Done.")
 
 
 if __name__ == "__main__":

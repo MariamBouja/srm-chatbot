@@ -1,0 +1,312 @@
+URL: https://www.srm-sm.ma/programme-previsionnel-annuel/
+TITLE: Programme prévisionnel annuel  – SRM-SM Société Régionale Multiservices Souss-Massa
+
+Programme prévisionnel annuel  – SRM-SM Société Régionale Multiservices Souss-Massa
+Skip to content
+Programme prévisionnel annuel
+EntitéNature prestationObjetLieu d'exécutionEstimation prévisionnelleMode de passationPériode de lancementRéservé PME-TPE-AE
+DINVFournituresFourniture d'engins d'exploitationPréfecture d'Agadir Ida-Outanane7.000.000,00AOAvril
+DINVFournituresOutillage individuel et de chantierPréfecture d'Agadir Ida-Outanane450.000,00AOMai
+DINVFournituresAcquisition du Matériel de sécuritéPréfecture d'Agadir Ida-Outanane200.000,00AOJuinOui
+DINVFournituresAcquisition des appareils scientifiques de laboratoire - Centres AssainissementPréfecture d'Agadir Ida-Outanane100.000,00AOJuinOui
+QSEFournituresAcquisition des équipements
+de protection collectiveDirection centrale AGADIR1.900.000,00AOAvrilOui
+QSEFournituresAcquisition des équipements
+de protection individuelleDirection centrale AGADIR1.320.000,00AOAvrilOui
+QSEFournituresAcquisition des vetements de travailDirection centrale AGADIR1.800.000,00AOAvrilOui
+QSEFournituresAcquisition équipements de sauvetageDirection centrale AGADIR360.000,00AOJuinOui
+QSEFournituresAcquisition de détecteurs pour les espaces confinésDirection centrale AGADIR600.000,00AOMaiOui
+DCLFournituresFourniture des compteurs Eau /DébimétresPREFECTURE AGADIR IDAOUTANANE29.350.000,00AO1er trimestre
+DCLFournituresAcquisition des compteurs numériques STSPREFECTURE AGADIR IDAOUTANANE3.400.000,00AOAvril
+DCLFournituresAcquisition des compteurs numériques MTPREFECTURE AGADIR IDAOUTANANE3.400.000,00AOMars
+DCLFournituresAcquisition des compteurs numériques BT 2 filsPREFECTURE AGADIR IDAOUTANANE3.400.000,00AOMars
+DCLFournituresAcquisition d'un compteur étalon portatifPREFECTURE AGADIR IDAOUTANANE1.800.000,00AOJuillet
+DCLFournituresAcquisition d'un banc d'étalonnage stationnaire pour compteur d'électricité et d'un compteur étalons portatifPREFECTURE AGADIR IDAOUTANANE2.000.000,00AOJuillet
+DSIFournituresFourniture matérièl informatiqueAgadir4.032.000,00AOMarsOui
+DSIFournituresAchat des licences EliseAgadir633.500,00AOMarsOui
+DSIFournituresAcquisition, installation et mise en service d’un Système de téléphonie sur IPAgadir1.000.000,00AOJuinOui
+DSIFournituresAchat des licencesWindowsAgadir600.000,00AOMaiOui
+DSIFournituresAcquisition de Licences AutoCADAgadir100.000,00AOMaiOui
+DEPFournituresFourniture de pièces de rechange hydromécaniques et électriques pour stations Eau PotableRégion Souss Massa3.000.000,00AOjanvier
+DEPFournituresFourniture de matériel d'entretien du réseau d'eau potablePréfecture Agadir Ida Outanane & Préfecture Inzegane Ait Melloul3.500.000,00AOjanvier
+DEPFournituresFourniture d'outillage de chantierPréfecture Agadir Ida Outanane500.000,00AOavrilOui
+DEPFournituresAcquisition de matériel de recherche de fuites d'eauRégion Souss Massa3.000.000,00AOmai
+DEPFournituresFourniture des appareils de mesure et des consommables pour le laboratoire d'analyses de l'eau potableLaboratoire d'analyses Eau Potable600.000,00AOFévrier
+DEEFournituresAcquisition batteries et MonitoringPréfecture Agadir-Idaoutanane407.000,00AOMars
+DEEFournituresAchat appareils et outillage exploitat.Préfecture Agadir-Idaoutanane393.000,00AOAvril
+DEEFournituresAcquisition appareillages de test HTAPréfecture Agadir-Idaoutanane1.000.000,00AOMars
+DEEFournituresAchats Accessoires Postes Sources et Contrôle CommandePréfecture Agadir-Idaoutanane200.000,00AOMai
+DEEFournituresAcquistion d'un poste mobile HTA/HTAPréfecture Agadir-Idaoutanane12.000.000,00AOAvril
+DEEFournituresAcquistion des Transformateurs HTA/BTToutes les provinces de la SRM-SM6.000.000,00AOAvril
+DEEFournituresAcquistion des disjoncteurs haut de poteau pour le spostes H61Toutes les provinces de la SRM-SM1.000.000,00AOAvril
+DEEFournituresAcquisiion des poteaux boisToutes les provinces de la SRM-SM2.200.000,00AOAvril
+DEEFournituresAcquisition différents types de câbles électriquesToutes les provinces de la SRM-SM3.000.000,00AOMai
+DEEFournituresAcquisition boites de jonction et boites d'extremitéToutes les provinces de la SRM-SM1.000.000,00AOMars
+DEEFournituresAcquisition des accessoires du réseau HTAToutes les provinces de la SRM-SM1.200.000,00AOMai
+DEEFournituresAcquisition des disjoncteurs tétrapolaires BTToutes les provinces de la SRM-SM750.000,00AOAvril
+DEEFournituresAcquisition des accessoires des Postes HTA/BTToutes les provinces de la SRM-SM500.000,00AOMai
+DEEFournituresAcquisition des accessoires du réseau BTToutes les provinces de la SRM-SM650.000,00AOMai
+DEEFournituresAcquisition des batteries des IPT (OCR)Préfecture Agadir-Idaoutanane
+Préfecture Inezgan Ait Melloul16.200,00AOMars
+DEEFournituresFourniture et installation des IPT au niveau de postes postes HTA-BTPréfectures Agadir-Idaoutanane et Inzegane-Ait Melloul;
+Provinces de Tiznit et Taroudant.9.322.000,00AOMai
+DEEFournituresFourniture et installation des Comptages FrontaliersPréfecture Inzegane-Ait Melloul;
+Provinces de Tiznit et Taroudant.3.000.000,00AOJuin
+DEAFournituresFourniture d'engins d'exploitationPréfecture d'Agadir Ida-Outanane7.000.000,00AOAvrilOui
+DEAFournituresOutillage individuel et de chantierPréfecture d'Agadir Ida-Outanane450.000,00AOMaiOui
+DEAFournituresAcquisition du Matériel de sécuritéPréfecture d'Agadir Ida-Outanane200.000,00AOJuin
+DEAFournituresAcquisition des Appareils de mesurePréfecture d'Agadir Ida-Outanane200.000,00AOJuillet
+DEAFournituresAcquisition des appareils scientifiques de laboratoire - Centres AssainissementPréfecture d'Agadir Ida-Outanane100.000,00AOJuin
+DP IAFournituresOutillage individuel et de chantierPréfecture Inezgane Ait Melloul1.000.000,00AOAvrilOui
+DP IAFournituresMatériel de sécuritéPréfecture Inezgane Ait Melloul200.000,00AOAvrilOui
+DP IAFournituresAcquisition d'un compteur étalon portatifPréfecture Inezgane Ait Melloul300.000,00AOAvrilOui
+DP IAFournituresAchat d'un camion gruePréfecture Inezgane Ait Melloul1.000.000,00AOAvrilOui
+DP IAFournituresAppareils de mesurePréfecture Inezgane Ait Melloul200.000,00AOMaiOui
+DP IAFournituresAcquisition des appareils scientifiques de laboratoire - Centres AssainissementPréfecture Inezgane Ait Melloul100.000,00AOMaiOui
+DP IAFournituresOutillage individuel et de chantierPréfecture Inezgane Ait Melloul200.000,00AOMaiOui
+DP IAFournituresMatériel de sécuritéPréfecture Inezgane Ait Melloul100.000,00AOMaiOui
+DP IAFournituresAppareils de mesure et de recherche de fuitePréfecture Inezgane Ait Melloul500.000,00AOMaiOui
+DP IAFournituresAchat d'outillage pour localisation de défaut, intervention et maintenance du réseau HTA souterrain Lot 1Préfecture Inezgane Ait Melloul500.000,00AOMaiOui
+DP IAFournituresAchat d'outillage pour localisation de défaut, intervention et maintenance des postes HTA/BT
+Achat d'outillage pour localisation de défaut, intervention et maintenance du réseau HTA aérien.
+Achat d'un détécteur de défauts sur les réseaux BT souterrainsPréfecture Inezgane Ait Melloul500.000,00AOMaiOui
+DP IAFournituresNouveaux compteursPréfecture Inezgane Ait Melloul5.000.000,00AOJuinOui
+DP IAFournituresEngin de ChantierPréfecture Inezgane Ait Melloul4.000.000,00AOJuilletOui
+DP IAFournituresFourniture et installation des Comptages FrontaliersPréfecture Inezgane Ait Melloul860.000,00AOJuillet
+DP IAFournituresAchat d'un camion nacellePréfecture Inezgane Ait Melloul700.000,00AOOctobreOui
+DP IAFournituresAchat d'outillage pour localisation de défaut, intervention et maintenance du réseau HTA souterrain Lot 2Préfecture Inezgane Ait Melloul500.000,00AOOctobreOui
+DP CAFournituresAcquisit. Pickup nacelle pour BIOUGRAChtouka Ait Baha850.000,00AO1er trimestre
+DP CAFournituresAchat d'appareils de localisation de défautChtouka Ait Baha780.000,00AO1er trimestre
+DP CAFournituresAchat de caisse d'injection secondaireChtouka Ait Baha420.000,00AO2ème trimestre
+DP CAFournituresAcquisition matériel et outillageChtouka Ait Baha800.000,00AO3ème trimestre
+DP CAFournituresAchats de Plaques de regardsDP CHTOUKA1.000.000,00AOAvrilOui
+DP CAFournituresAcquisition des Pompes d'épuisement pour l'activité assainissementDP CHTOUKA100.000,00AOJuinOui
+DP CAFournituresAcquisition des appareils scientifiques de laboratoire pour l’activité AssainissementDP CHTOUKA50.000,00AOJuinOui
+DP CAFournituresL’acquisition d’outillage individuel et de chantier pour l’activité assainissementDP CHTOUKA400.000,00AOOctobreOui
+DP CAFournituresL’acquisition des appareils de mesure pour l'activite assainisementDP CHTOUKA200.000,00AOOctobreOui
+DP CAFournituresL’acquisition Engin de Chantier pour l’activité assainissementDP CHTOUKA2.000.000,00AOOctobreOui
+DP TAFournituresNouveaux compteursCentres DP Tata333.333,33AO2ème trimestre
+DP TAFournituresAcquisition de matériel et outillage d'exploitationCentres DP Tata583.333,33AO2ème trimestre
+DP TAFournituresAcquisition de matériel et outillage d'exploitationCentres DP Tata916.666,67AO2ème trimestre
+DP TAFournituresAcquisition du matériel et de l'outillage pour les équipes d'exploitation.DP Tata721.666,67AO4ème trimestre
+DAMGLFournituresRemplacement d'ascenssuer de l'Annexe d'exploitationAgadir Ida-Outanane600.000,00AOAvril
+DAMGLFournituresRemplacement du groupe électrogène au siège de la SRM-SMAgadir Ida-Outanane300.000,00AOMai
+DAMGLFournituresAcquisition des machines et mobilier de bureauAgadir Ida-Outanane1.000.000,00AOJuinOui
+DAMGLFournituresAcquisition des équipements de bureauAgadir Ida-Outanane400.000,00AOJuilletOui
+DAMGLFournituresAcquisition de deux chariots élévateursAgadir Ida-Outanane600.000,00AOSeptembreOui
+DAMGLFournituresAcquisition des machines et mobilier de bureauInzegane Ait Melloul500.000,00AOAvrilOui
+DAMGLFournituresAcquisition des équipements de bureauInzegane Ait Melloul200.000,00AOMaiOui
+DAMGLFournituresAcquisition des machines et mobilier de bureauChtouka Ait Baha500.000,00AOAvrilOui
+DAMGLFournituresAcquisition des équipements de bureauChtouka Ait Baha200.000,00AOMaiOui
+DAMGLFournituresAcquisition des machines et mobilier de bureauTaroudant500.000,00AOAvrilOui
+DAMGLFournituresAcquisition des équipements de bureauTaroudant200.000,00AOMaiOui
+DAMGLFournituresAcquisition des machines et mobilier de bureauTiznit500.000,00AOAvrilOui
+DAMGLFournituresAcquisition des équipements de bureauTiznit200.000,00AOMaiOui
+DAMGLFournituresAcquisition des machines et mobilier de bureauTata500.000,00AOAvrilOui
+DAMGLFournituresAcquisition des équipements de bureauTata200.000,00AOMaiOui
+DP TRFournituresFournitures de bureau ordinaires et imprimés des entités de la DP de TaroudantProvince Taroudant190.000,00AOAvril
+DP TRFournituresAcquisition de matière consommable pour le compte de la DP de TaroudantProvince Taroudant250.000,00AOAvril
+DP TRFournituresAcquisition équipement, Mobilier et matériel de bureau pour le compte des entités de la DP de TaroudantProvince Taroudant1.052.000,00AOMai
+DP TRFournituresAcquisition de certificats de signature électronique et abonnement aux services y afférentsProvince Taroudant10.000,00AOMars
+DP TRFournituresAcquisition de PC, imprimante et fourniture informatique pour le compte de la DP de TaroudantProvince Taroudant600.000,00AOMai
+DP TRFournituresAcquisition de véhicules pour le service d'assainissement liquide pour les agences relevant de la DP de TaroudantProvince Taroudant2.700.000,00AOAvril
+DP TRFournituresAcquisition des climatiseurs pour les entités relevant de la DP de TaroudantProvince Taroudant100.000,00AOMai
+DP TRFournituresAcquisition du mobilier pour les bâtiments techniques des sites relevant de la DP de TaroudantProvince Taroudant100.000,00AOJuin
+DP TRFournituresAcquisition des chaffeaux pour pour le compte des entités de la DP de TaroudantProvince Taroudant40.000,00AOJuillet
+DP TRFournituresaquisition des équipements téléphoniques pour le compte des entités de la DP de TaroudantProvince Taroudant38.000,00AOSeptembre
+DP TRFournituresAcquisition de fourniture d'entretien, de produit de festivité et de pavoisement pour les entités de la DP de TaroudantProvince Taroudant120.000,00AOAvril
+DP TRFournituresRenouvellement des extincteurs réformés des entités et de la DP de Traoudant.Province Taroudant5.000,00AOAvril
+DP TRFournituresAcquisition des équipements de protection individuels des agents des entités de la DP de Taroudant.Province Taroudant300.000,00AOMai
+DP TRFournituresAcquisition d'habillements et tenues de travail pour les agents relevant des entités de DP TaroudantProvince Taroudant200.000,00AOJuin
+DP TRFournituresAcquisition du matériel de branchement eau potable pour les centres de DP TARProvince Taroudannt1.500.000,00AOJuillet
+DP TRFournituresFourniture d'outillage de chantierProvince Taroudannt500.000,00AOSeptembre
+DP TRFournituresAcquisition des GEG de secoursProvince Taroudannt500.000,00AOJuin
+DP TRFournituresAcquisition des équipements hydro et électromécanique de secours.Province Taroudannt600.000,00AOJuin
+DP TRFournituresAcquisition des équipements électriques et d'automatisme de secours pour tous les centres de DP TARProvince Taroudannt600.000,00AOJuin
+DP TRFournituresAcquisition des groupes électropompes de secours pour tous les centres de DP TARProvince Taroudannt600.000,00AOJuin
+DP TRFournituresFourniture des Tampons et grilles pour la province de TaroudanntTaroudannt400.000,00AOMaiOui
+DP TRFournituresAcquisition de robinetteries pour la chambre des vannesTaroudannt1.000.000,00AOOctobreOui
+DP TRFournituresacqusition d’outillage divers pour l'exploitation assainissement de la Direction Provinciale de TaroudanntTaroudannt500.000,00AOOctobreOui
+DP TRFournituresacqusition du matériel de sécurité pour la direction provinciale de TaroudanntTaroudannt200.000,00AOOctobreOui
+DP TRFournituresacquisition des appareils de mésure pour les ouvrages d'assainissement de la Direction Provinciale de TaroudanntTaroudannt200.000,00AOOctobreOui
+DP TRFournituresacquisition des hydrocureuses pour la Direction Provinciale de TaroudanntTaroudannt10.000.000,00AOJuin
+DP TRFournituresAcquisition des appareils scientifiques de laboratoireTaroudannt100.000,00AOOctobre
+DP TRFournituresDotation des équipes du Département Electricité Taroudannt par les Outillages ‘Exploitation’ Siège
+Direction Provinciale Taroudannt 1.522.000,00AOSeptembre
+DP TRFournituresAcquisition des équipements de maintenance et de rechange pour les équipes Postes HTB/HTA & HTA/BT de la Direction Provinciale de Taroudannt Siège
+Direction Provinciale Taroudannt 2.055.200,00AOSeptembre
+DEAFournituresFourniture de l'eau de javel à 48° et à 24°Préfecture d'Agadir Ida-Outanane800.000,00AOAvril
+DEAFournituresFourniture de polymère et de la résine échangeuse de cationsPréfecture d'Agadir Ida-Outanane840.000,00AOJuillet
+DEAFournituresAchat Pièces de Rechange des stations de pompage des eaux usées épuréesPréfecture d'Agadir Ida-Outanane240.000,00AOJuin
+DEAFournituresAchat Pièces de Rechange des stations de relevage et STEPsPréfecture d'Agadir Ida-Outanane700.000,00AOJuillet
+DINVServicesContrôle de la qualité des travaux dans la préfecture AGADIR IDAOUTANANE par un laboratoirePréfecture Agadir Idaoutanane500.000,00AOMars
+DINVServicesTravaux topographiques & parcellaires dans la prefecture d'Agadir IdaoutananePrefecture Agadir Idaoutanane1.500.000,00AOMars
+DINVServicesContrôle de la qualité des travaux par un laboratoire dans la prefecture d'Agadir IdaoutananePrefecture Agadir Idaoutanane700.000,00AOMars
+DINVServicesTravaux topographiques & parcellaires dans la prefecture d'Inzegane Ait MelloulPrefecture Inezgane Ait Melloul1.500.000,00AOMars
+DINVServicesContrôle de la qualité des travaux par un laboratoirePrefecture Inezgane Ait Melloul700.000,00AOMars
+DINVServicesTravaux topographiques & parcellairesProvince Chtouka Ait Baha1.000.000,00AOMars
+DINVServicesContrôle de la qualité des travaux par un laboratoireProvince Chtouka Ait Baha500.000,00AOMars
+DINVServicesTravaux topographiques & parcellairesProvince Taroudannt1.000.000,00AOMars
+DINVServicesContrôle de la qualité des travaux par un laboratoireProvince Taroudannt500.000,00AOMars
+DINVServicesTravaux topographiques & parcellairesProvince Tata500.000,00AOMars
+DINVServicesContrôle de la qualité des travaux par un laboratoireProvince Tata200.000,00AOMars
+DINVServicesTravaux topographiques & parcellairesProvince Tiznit1.000.000,00AOMars
+DINVServicesContrôle de la qualité des travaux par un laboratoireProvince Tiznit500.000,00AOMars
+DINVServicesTravaux de rehabilitation de la station de relevage principale de Tata et du collecteur principalProvince Tata5.000.000,00AOJuillet
+DINVServicesTravaux de realisation d'un kit de pompage au niveau du quartier Imdsian Commune TataProvince Tata1.000.000,00AOJuillet
+QSEServicesMise en place du Système de Management
+Intégré selon les normes ISO 9001,
+ISO 45001, ISO 14001Direction centrale AGADIR450.000,00AOAvrilOui
+QSEServicesConception et édition CDPDirection centrale AGADIR100.000,00AOMaiOui
+QSEServicesConception et édition cartes
+et document QSE SRM-SMDirection centrale AGADIR130.000,00AOJuinOui
+QSEServicesEtudes QSEDirection centrale AGADIR250.000,00AOSeptembreOui
+DCLServices Changement compteurs
+Pose compteurs nouveaux abonnésPREFECTURE AGADIR IDAOUTANANE5.000.000,00AOAvrilOui
+DCLServices Changement compteurs
+Pose compteurs nouveaux abonnésDP INEZGANE AIT MELLOUL5.000.000,00AOAvrilOui
+DCLServices Changement compteurs
+Pose compteurs nouveaux abonnésDP CHTOUKA AIT BAHA750.000,00AOAvrilOui
+DCLServices Changement compteurs
+Pose compteurs nouveaux abonnésDP TAROUDANT1.200.000,00AOAvrilOui
+DCLServices Changement compteurs
+Pose compteurs nouveaux abonnésDP TIZNIT1.000.000,00AOAvrilOui
+DCLServices Changement compteurs
+Pose compteurs nouveaux abonnésDP TATA400.000,00AOAvrilOui
+DCLServicesrecensement, mise à jour de la base de données des compteurs, et fiabilisation des données des clients de la SRM SMrégion Souss Massa20.000.000,00AOAvril
+DCLServicesRecherche et détection des fraudes sur le réseau de distribution de l'Electricité et Eau Potablerégion Souss Massa3.000.000,00AOAvrilOui
+DSIServicesRenouvellement plateforme hyperconvergéeAgadir2.260.000,00AOMarsOui
+DSIServicesDéploiement de la Signature numérique esignAgadir300.000,00AOMarsOui
+DSIServicesLocation des imprimantesAgadir1.763.400,00AOMarsOui
+DSIServicesMise en place d’une plateforme SD-WANAgadir728.000,00AOMarsOui
+DSIServicesSystème de contrôle d’accès et gestion des présencesAgadir500.000,00AOSeptembreOui
+DSIServicesSystème de vidéosurveillance pour la sécurisation des sites névralgiquesAgadir1.500.000,00AOJuinOui
+DSIServicesMise à niveau du réseau informatique  (Etude)Agadir100.000,00AOMaiOui
+DSIServicesMise à niveau du réseau informatique  (réalisation)Agadir700.000,00AOJuinOui
+DSIServicesGénéralisation du système de gestion clientèle WATERPAgadir2.000.000,00AOJuilletOui
+DSIServicesMise en place d'un portail SRMAgadir200.000,00AOSeptembreOui
+DAIServicesAudit des marchés dont les montants excèdent trois millions de Dirhams toutes taxes comprisesAGADIR240.000,00AO3ème trimestre
+DEPServicesEtalonnage des appareils de mesureLaboratoire d'analyses Eau Potable200.000,00AOFévrier
+DEPServicesSurveillance de la qualité des eaux potablesRégion Souss Massa1.000.000,00AOjanvier
+DEPServicesLocation du matériel et engins avec chauffeur pour travaux divers dans le Grand AgadirPréfecture Agadir Ida Outanane750.000,00AOmaiOui
+DEEServicesMaintenance des Réseaux HTA, Postes HTA-BT et Réseaux BT (Contrat Cadre)Préfecture Agadir-Idaoutanane
+Préfecture Inezgan Ait Melloul9.500.000,00AOMars
+DEEServicesMaintenance des régleurs en charges (VT3) des TR3 et TR4 AIT MELLOUL- 2TRS TILILA -3 TRS TALBORJTPréfecture Agadir-Idaoutanane
+Préfecture Inezgan Ait Melloul400.000,00AOMars
+DEEServicesAnalyse d'huile des TR HTB/HTA et HTA/BT relevant de la SRM-SM préfecture d'AgadirPréfecture Agadir-Idaoutanane
+Préfecture Inezgan Ait Melloul400.000,00AOMai
+DEEServicesMaintenance VT3 des disjoncteurs 22KV - SF6Préfecture Agadir-Idaoutanane300.000,00AOMars
+DEEServicesMaintenance préventive et curative du laboratoire de diagnostique & localisation des défauts des câbles souterrainsPréfecture Agadir-Idaoutanane350.000,00AOJanvier
+DEEServicesEntretien et maintenance des climatiseurs de la salle des serveurs, salle de conduite et postes sources de la SRM-SMPréfecture Agadir-Idaoutanane110.000,00AOJuilletOui
+DEEServicesLes essais électrique des outils isolants TST/HTAPréfecture Agadir-Idaoutanane40.000,00AOMars
+DEEServicesPrestation de chargement, transport, déchargement et mise en cellule des transformateurs de puissance HT/MT à la SRM-SMPréfectures Agadir-Idaoutanane et Inzegane-Ait Melloul;
+Provinces de Tiznit, Taroudant et Tata.350.000,00AOMars
+DP IAServicesContrôle de la qualité des travaux par un laboratoirePréfecture Inezgane Ait Melloul1.200.000,00AOAvrilOui
+DP IAServicesChangement compteursPréfecture Inezgane Ait Melloul8.000.000,00AOMaiOui
+DP CAServicesCurage fosse septiques de la commune Ai Amira ProvinceChtouka Ait BahaAit Amira1.000.000,00AOOctobreOui
+DP CAServicesSécurisation des sites , stations et réservoirsDP chtouka1.728.000,00AOJuinOui
+DP CAServicesCurage des bassins de sédimentation de la STEP de BiougraDP CHTOUKA1.000.000,00AOMaiOui
+DP TIServicesGestion des installations d'eau potable au cercle TiznitCercle Tiznit7.000.000,00AOFévrier
+DP TIServicesGestion des installations d'eau potable au cercle TafraoutCercle Tafraout6.700.000,00AOFévrier
+DP TIServicesGestion des installations d'eau potable au cercle AnziCercle Anzi3.800.000,00AOMars
+DP TIServiceshydrocurage du réseau d'assainissement de Tiznit et TafraoutTiznit
+Tafraout2.000.000,00AOMars
+DP TIServicesTravaux de maintenance des GEP, des équipements hydromécaniques et armoires électriques BTDP Tiznit850.000,00AOMars
+DP TIServicesTravaux de maintenance des systèmes d'automatisme, télégestion et débitmètresDP Tiznit500.000,00AOMars
+DP TIServicesTravaux topographiques & parcellairesProvince de Tiznit500.000,00AOFévrier
+DP TIServicesContrôle de la qualité des travaux par un laboratoireProvince de Tiznit500.000,00AOFévrier
+DP TIServicesTravaux topographiques & parcellairesProvince de Tiznit300.000,00AOAvril
+DP TIServicesContrôle de la qualité des travaux par un laboratoireProvince de Tiznit200.000,00AOAvril
+DP TAServicesGestion des ouvrages de distributionCentres DP Tata500.000,00AO2ème trimestre
+DP TAServicesGestion des stations et STEPCentres DP Tata500.000,00AO2ème trimestre
+DAMGLServicesGardiennage des locauxAgadir Ida-Outanane14.000.000,00AOJuillet
+DAMGLServicesNettoyage des locauxAgadir Ida-Outanane2.460.000,00AOAvril
+DAMGLServicesGestion des archivesAgadir Ida-Outanane1.700.000,00AOMars
+DAMGLServicesLocation de Matériel de Transport LLDAgadir Ida-Outanane8.038.800,42AOJuin
+DAMGLServicesEntretien des espaces vertsAgadir Ida-Outanane500.000,00AOJuillet
+DAMGLServicesDésinsectisationAgadir Ida-Outanane200.000,00AOSeptembreOui
+DAMGLServicesEntretien et réparation EnginsAgadir Ida-Outanane1.920.000,00AOJuinOui
+DAMGLServicesGardiennage des locauxInzegane Ait Melloul4.560.000,00AOJuillet
+DAMGLServicesNettoyage des locauxInzegane Ait Melloul1.100.000,00AOAvril
+DAMGLServicesGestion des archivesInzegane Ait Melloul180.000,00AOMars
+DAMGLServicesLocation de Matériel de Transport LLDInzegane Ait Melloul4.461.600,00AOJuin
+DAMGLServicesEntretien des espaces vertsInzegane Ait Melloul200.000,00AOAvril
+DAMGLServicesDésinsectisationInzegane Ait Melloul60.000,00AOMaiOui
+DAMGLServicesEntretien et réparation Engins de transportInzegane Ait Melloul560.000,00AOJuilletOui
+DAMGLServicesGardiennage des locauxChtouka Ait Baha9.960.000,00AOJuillet
+DAMGLServicesNettoyage des locauxChtouka Ait Baha720.000,00AOAvril
+DAMGLServicesGestion des archivesChtouka Ait Baha180.000,00AOMars
+DAMGLServicesLocation de Matériel de Transport LLDChtouka Ait Baha1.818.238,46AOJuin
+DAMGLServicesEntretien des espaces vertsChtouka Ait Baha150.000,00AOAvril
+DAMGLServicesDésinsectisationChtouka Ait Baha60.000,00AOMaiOui
+DAMGLServicesEntretien et réparation Engins de transportChtouka Ait Baha80.000,00AOJuilletOui
+DAMGLServicesGardiennage des locauxTaroudant8.520.000,00AOJuillet
+DAMGLServicesNettoyage des locauxTaroudant1.400.000,00AOAvril
+DAMGLServicesGestion des archivesTaroudant180.000,00AOMars
+DAMGLServicesLocation de Matériel de Transport LLDTaroudant4.556.979,65AOJuin
+DAMGLServicesEntretien des espaces vertsTaroudant150.000,00AOAvril
+DAMGLServicesDésinsectisationTaroudant60.000,00AOMaiOui
+DAMGLServicesEntretien et réparation Engins de transportTaroudant480.000,00AOJuilletOui
+DAMGLServicesGardiennage des locauxTiznit10.140.000,00AOJuillet
+DAMGLServicesNettoyage des locauxTiznit720.000,00AOAvril
+DAMGLServicesGestion des archivesTiznit180.000,00AOMars
+DAMGLServicesLocation de Matériel de Transport LLDTiznit3.063.492,14AOJuin
+DAMGLServicesEntretien des espaces vertsTiznit150.000,00AOAvril
+DAMGLServicesDésinsectisationTiznit60.000,00AOMaiOui
+DAMGLServicesEntretien et réparation Engins de transportTiznit400.000,00AOJuilletOui
+DAMGLServicesGardiennage des locauxTata4.000.000,00AOJuillet
+DAMGLServicesNettoyage des locauxTata720.000,00AOAvril
+DAMGLServicesGestion des archivesTata180.000,00AOMars
+DAMGLServicesLocation de Matériel de Transport LLDTata1.302.288,34AOJuin
+DAMGLServicesEntretien des espaces vertsTata150.000,00AOAvril
+DAMGLServicesDésinsectisationTata60.000,00AOMaiOui
+DAMGLServicesEntretien et réparation Engins de transportTata720.000,00AOJuilletOui
+DP TRServicesEntretien et recharge des extincteurs des entités de la DP de TaroudantProvince Taroudant50.000,00AOJuin
+DP TRServicesEntretien et réparation Machines et Mobilier de Bureau pour le compte des entités de la DP de TaroudantProvince Taroudant160.000,00AOAvril
+DP TRServicesEntretien et réparation des véhicules SM-SM des entités et de la DP de TaroudantProvince Taroudant500.000,00AOMai
+DP TRServicesFrais postaux et frais de télècommunicationProvince Taroudant100.000,00AOAvril
+DP TRServicesInsertions professionnelleProvince Taroudant20.000,00AOMai
+DP TRServicesReceptionsProvince Taroudant200.000,00AOJuin
+DP TRServicesPrestations architecturalesProvince Taroudant80.000,00AOJuillet
+DP TRServicesLa montée des débits internet au niveau des agences de service relevant de la DP TaroudantProvince Taroudant108.000,00AOAvril
+DP TRServicesLocation de photocopieurs pour le compte des entités de la DP de TaroudantProvince Taroudant230.400,00AOMai
+DP TRServicesLocation de véhicules pour le compte des entités de la DP de TaroudantProvince Taroudant7.572.000,00AOSeptembre
+DP TRServicesMise à disposition du personnel d’intérim pour le compte des entités de la DP de TaroudantProvince Taroudant40.000,00AOAvril
+DP TRServicesMise en œuvre du programme de gestion des archives des entités et de la DP de TaroudantProvince Taroudant90.000,00AOOctobre
+DP TRServicesExternalisation de la relève d'index et distribution des factures BO pour le compte des agences de la DP de TaroudantProvince Taroudant1.638.138,60AOAvril
+DP TRServicesExternalisation de l'édition des factures et livres de facturation BO pour le compte des agences de la DP de TaroudantProvince Taroudant665.910,00AOMai
+DP TRServicesNettoyage des locaux à usage administratif et techniques des entités et de la DP de TaroudantProvince Taroudant310.000,00AOJuin
+DP TRServicesEntretien des espaces verts au niveau des locaux administratifs et sites techniques des entités de la DP de TaroudantProvince Taroudant12.000,00AOJuillet
+DP TRServicesGardiénage des sites:Locaux administratifs et sites techniques des entités relevant de la DP de TaroudantProvince Taroudant8.352.000,00AOSeptembre
+DP TRServicesSuivi de fonctionnement des stations de reprises et réservoirs sis aux centres de la DP TARProvince Taroudannt800.000,00AOAvril
+DP TRServicesExpertise pour réhhabilitations des reservoirsProvince Taroudannt500.000,00AOJuillet
+DP TRServicesEntretien et gestion de la station d’épuration et de la station de relevage de la ville d’Ouled Teima (Province Taroudant)Ouled Teima326.145,00AOMaiOui
+DP TRServicesEntretien et Gestion des stations de relevage et de pompage des eaux usées de TaroudanntTaroudannt270.000,00AOJuinOui
+DP TRServicesEntretien et gestion de la station d’épuration et de la station de relevage de la ville d’Ouled Berhil (Province Taroudant)Ouled Berhil195.833,33AOJuilletOui
+DP TRServicesEntretien et gestion de la station d’épuration de la ville d'Aoulouz (Province Taroudant)Aoulouz158.333,33AOSeptembreOui
+DP TRServicesHydrocurage du réseau d’assainissement d’Ouled Teima -Eaux usées-Ouled Teima700.000,00AOMai
+DP TRServicesHydrocurage du réseau d’assainissement au niveau de Taliouine et Aoulouz (Province de Taroudannt)Taliouine et Aoulouz130.000,00AOAvril
+DP TRServicesHydrocurage du réseau d’assainissement au niveau de la ville de TaroudanntTaroudannt520.000,00AOAvril
+DP TRServicesEntretien et Exploitation du réseau d’assainissement des villes Ouled Berhil et AoulouzOuled Berhil et Aoulouz375.000,00AOMarsOui
+DP TRServicesEntretien et Exploitation du réseau d’assainissement de TaroudanntTaroudannt250.000,00AOAvrilOui
+DP TRServicesCurage des STEP de la province de TaroudanntTaroudannt2.000.000,00AOAvril
+DP TRServicesContrôle technique pour la construction d'un réservoir surélevé à à la commune Sebt El GuerdaneTaroudannt100.000,00AODécembreOui
+DP TRServicesExternalisation de la relève d'index BE pour le compte des agences de la DP de TaroudantProvince Taroudant2.300.000,00AOAvril
+DP TRServicesExternalisation de l'édition des factures et livres de facturation BE pour le compte des agences de la DP de TaroudantProvince Taroudant1.400.000,00AOMai
+DP TRServicesExternalisation de la distribution des factures BE pour le compte des agences de la DP de TaroudantProvince Taroudant1.638.138,60AOJuin
+DP TRServicesExternalisation de l'opération de coupure et rétablissement des installations des clients BT BE dans le cadre de l'action de recouvrement de la créance BTProvince Taroudant1.000.000,00AOJuillet
+DP TRServicesExternalisation de l'opération dd reprise en masse des compteurs post paiement par des compteurs prépaiement en ruralProvince Taroudant1.500.000,00AOSeptembre
+DP TRServicesExternalisation de l'opération dd reprise en masse des compteurs post paiement par des compteurs prépaiement en ruralProvince Taroudant600.000,00AOAvril
+DP TRServicesAnalyse des huiles dielectriques des TR 60/22kv de la DPT CT
+Taroudannt, SSG, OT, Zaouia Sidi Taher, Igli, Taliouine, El faid, Sidi Bouaal, Irhrem 229.950,00AOMaiOui
+DEAServicesMaintenance préventive et corrective des équipements des stations d'épurationPréfecture d'Agadir Ida-Outanane/Prefecture Inezgane Ait Melloul1.280.000,00AOJuin
+DEAServicesMaintenance préventive et corrective des équipements de la station SoussPréfecture d'Agadir Ida-Outanane1.200.000,00AOJuillet
+DEAServicesMaintenance EmissairePréfecture d'Agadir Ida-Outanane/Prefecture Inezgane Ait Melloul520.000,00AOSeptembre
+DEAServicesMaintenance des équipements hydrauliques, électromécaniques et électriques des stations et kits des relevage des eaux usées de la SRM SM dans la Préfecture d'Agadir Ida-OutananePréfecture d'Agadir Ida-Outanane1.500.000,00AOAvril
+DEAServicesPrestation de suivi de la qualité des eaux de baignade aux alentours des émissaires en merPréfecture d'Agadir Ida-Outanane700.000,00AOAvril
+DEAServicesAnalyse et contrôle des eaux uséesRégion Souss Massa1.300.000,00AOAvril
+DEAServicesLocation du matériel et engins avec chauffeur pour travaux sur le réseau et les ouvragesPréfecture d'Agadir Ida-Outanane600.000,00AOJuin
+DEAServicesEntretien camera zoom et mobile d'inspection des reseaux d'assainissementPréfecture d'Agadir Ida-Outanane70.000,00AOJuin
+DEAServicesEntretien de réseau d'eau usée réutiliséPréfecture d'Agadir Ida-Outanane160.000,00AOJuillet
+DEAServicesMaintenance des stations de pompage des eaux usées épuréesPréfecture d'Agadir Ida-Outanane680.000,00AOJuillet
+×
