@@ -2,7 +2,6 @@ URL: https://www.srm-sm.ma/entreprise/
 TITLE: Entreprise – SRM-SM Société Régionale Multiservices Souss-Massa
 
 Entreprise – SRM-SM Société Régionale Multiservices Souss-Massa
-Skip to content
 Entreprise
 je veux déposer une demande de branchement
 Electricité
@@ -13,7 +12,7 @@ Acte de propriété et autorisation légalisée du propriétaire si le demandeur
 Autorisation de construire.
 Jeu de plans approuvés par les autorités compétentes.
 Plan de masse et de situation du projet précisant l’emplacement exact du poste.
-Jeu de Plans des équipements du poste établis par une entreprise agréée par la RADEEJ.
+Jeu de Plans des équipements du poste établis par une entreprise agréée par la SRM-SM.
 Eau potable
 Branchement de gros consommateurs d’eau :
 Demande de branchement ou pré-imprimé signé par le client avec les caractéristiques techniques du branchement (calibre).

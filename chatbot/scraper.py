@@ -5,13 +5,22 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 OUTPUT_DIR = Path("data/website")
+
 SITEMAP_URLS = [
     "https://www.srm-sm.ma/wp-sitemap-posts-page-1.xml",
 ]
 
 SKIP_KEYWORDS = [
-    "sample-page", "homepage", "about-us", "blog", "shop", "cart",
-    "checkout", "my-account", "project-style", "our-team"
+    "sample-page",
+    "homepage",
+    "about-us",
+    "blog",
+    "shop",
+    "cart",
+    "checkout",
+    "my-account",
+    "project-style",
+    "our-team",
 ]
 
 
@@ -56,6 +65,7 @@ def clean_text(text):
 
     return "\n".join(lines)
 
+
 def scrape_page(url):
     print(f"Scraping: {url}")
 
@@ -70,9 +80,9 @@ def scrape_page(url):
     title = soup.title.get_text(strip=True) if soup.title else slug_from_url(url)
     text = clean_text(soup.get_text())
 
-    if len(text) < 100:
-        print(f"Skipped empty/weak page: {url}")
-    return
+    if len(text) < 30:
+        print(f"Skipped empty page: {url}")
+        return
 
     content = f"""URL: {url}
 TITLE: {title}
@@ -82,6 +92,9 @@ TITLE: {title}
 
     filename = clean_filename(slug_from_url(url)) + ".txt"
     file_path = OUTPUT_DIR / filename
+
+    print("Saving:", file_path)
+
     file_path.write_text(content, encoding="utf-8")
 
 
