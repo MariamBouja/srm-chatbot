@@ -2,6 +2,8 @@ venv/
 .env
 __pycache__/
 .DS_Store
+.claude/
+.agents/
 
 # WordPress core, plugins and the generated SQLite DB are not tracked —
 # wordpress-demo/setup.sh reproduces the whole install from scratch. Only
