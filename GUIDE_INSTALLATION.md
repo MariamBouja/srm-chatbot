@@ -202,6 +202,4 @@ Le site est accessible sur `http://localhost:8081`, l'administration sur `/wp-ad
 | `pip install` très long ou échoue | Vérifiez l'espace disque disponible et la connexion internet (torch/transformers sont volumineux), puis relancez la commande. |
 | Le chatbot répond trop souvent qu'il « ne dispose pas d'informations suffisamment fiables » | Soit le seuil de similarité (`SIMILARITY_THRESHOLD` dans `chatbot/config.py`) est trop strict, soit la base vectorielle n'est plus synchronisée avec `data/website/` — reconstruisez-la (§7). |
 
----
-
 *Assistant virtuel SRM-SM — Documentation technique. Contact : Mariam Bouja — maryambouja02@gmail.com*
