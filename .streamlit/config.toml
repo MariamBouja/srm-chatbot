@@ -1,0 +1,21 @@
+[theme]
+primaryColor = "#0B5FA5"
+backgroundColor = "#F5F8FC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A2332"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Needed so the app can be embedded in an <iframe> from a different origin
+# (the WordPress demo runs on a different local port) — see wordpress-demo/.
+# Both must be disabled together: Streamlit auto-disables XSRF protection
+# whenever CORS is off, and enabling one without the other breaks either
+# the websocket connection or the CSRF-token check from the framed page.
+enableCORS = false
+enableXsrfProtection = false

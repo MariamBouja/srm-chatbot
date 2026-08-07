@@ -1,8 +1,11 @@
+import json
 import re
 import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 from urllib.parse import urlparse
+
+from chatbot.config import AGENCIES_DATA_PATH
 
 OUTPUT_DIR = Path("data/website")
 
@@ -98,6 +101,48 @@ TITLE: {title}
     file_path.write_text(content, encoding="utf-8")
 
 
+def scrape_agencies_table(url):
+    """Extract the agencies table with cell boundaries preserved.
+
+    The generic scrape_page()/get_text() path glues adjacent table cells
+    together with no separator (e.g. "AGADIR IDA OUTANANEAgence siège"),
+    which makes reliable region-based filtering impossible. This walks the
+    <table> directly so each column (DP/Agence/Service/Adresse) stays
+    distinct.
+    """
+    response = requests.get(url, timeout=15)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    table = soup.find("table")
+    if table is None:
+        return []
+
+    records = []
+
+    for row in table.find_all("tr"):
+        cells = [c.get_text(strip=True) for c in row.find_all(["td", "th"])]
+        if len(cells) != 4:
+            continue
+
+        region, agency, service, address = cells
+        if region.strip().lower() == "dp":
+            continue  # header row
+
+        records.append({
+            "region": region.strip(),
+            "agency": agency.strip(),
+            "service": service.strip(),
+            "address": address.strip(),
+        })
+
+    return records
+
+
+def save_agencies_json(records, path=AGENCIES_DATA_PATH):
+    path.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -113,6 +158,16 @@ def main():
             scrape_page(url)
         except Exception as e:
             print(f"Error scraping {url}: {e}")
+
+    agencies_url = next((u for u in all_urls if "agences-daccueil" in u), None)
+    if agencies_url:
+        print(f"Extracting agencies table from: {agencies_url}")
+        try:
+            records = scrape_agencies_table(agencies_url)
+            save_agencies_json(records)
+            print(f"Agencies extracted: {len(records)}")
+        except Exception as e:
+            print(f"Error extracting agencies table: {e}")
 
     print("Done.")
 

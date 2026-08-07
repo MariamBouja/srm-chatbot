@@ -1,0 +1,326 @@
+[
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "Agence siège",
+    "service": "Eau",
+    "address": "Rue 18 Novembre Quartier Industriel AGADIR"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "ASP AGADIR",
+    "service": "Electricité et Eau",
+    "address": "Avenue ABDERRAHIM BOUAABID AGADIR"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "AS AGADIR CENTRE",
+    "service": "Electricité et Eau",
+    "address": "Boulevard HASSAN II Rue DES ORANGERS AGADIR"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "Agence BENSERGAO",
+    "service": "Electricité et Eau",
+    "address": "Avenue LAAYOUNE ALWIFAQ"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "Agence TIKIOUINE",
+    "service": "Electricité et Eau",
+    "address": "Cité ZAYTOUNE N° 55 TIKIOUINE"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "DRARGUA",
+    "service": "Electricité et Eau",
+    "address": "Lot ALIMAM HASSAN DRARGUA"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "Point de recette TAGADIRT",
+    "service": "Eau",
+    "address": "DRARGA"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "AS AOURIR",
+    "service": "Electricité",
+    "address": "Route Principale IMI MIKKI AOURIR"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "Agence Aourir",
+    "service": "Eau",
+    "address": "Route Principale AOURIR"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "Agence TAMRI",
+    "service": "Eau",
+    "address": "Boulevard principal centre  TAGHAZOUT"
+  },
+  {
+    "region": "AGADIR IDA OUTANANE",
+    "agency": "Centre TAGHAZOUT",
+    "service": "Eau",
+    "address": "TAGHAZOUT"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "Siège DPIA",
+    "service": "Eau",
+    "address": "Av omar lekhyam , irhalen , Dcheira"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "ASP Inezgane",
+    "service": "Electricité",
+    "address": "Avenue Prince Moulay Abdellah, arm"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "AgenceTarrast",
+    "service": "Eau",
+    "address": "Quartier rmel ,  av mouquataa Inezgane"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "AS Ait Melloul",
+    "service": "Electricité",
+    "address": "Avenue Houissine Ait Melloul"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "Agence  Ait Melloul ( Ex RAMSA)",
+    "service": "Eau",
+    "address": "Avenue Mohamed 5 Ait Melloul"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "Agence Azrou",
+    "service": "Eau",
+    "address": "Avenue  Mohamed 5 Azrou , Ait Melloul"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "Agence Lqlliaa",
+    "service": "Eau",
+    "address": "Route principale Biougra Lqlliaa , immeuble tadarte 1er étage , n°2"
+  },
+  {
+    "region": "INEZGANE AIT MELLOUL",
+    "agency": "Agence Temsia",
+    "service": "Eau",
+    "address": "Avenue elmokhtar soussi Temsia, immeuble ( albarid bank )n°10, 1er étage"
+  },
+  {
+    "region": "TATA",
+    "agency": "AS TATA",
+    "service": "Electricité",
+    "address": "Avenue Mohamed V, Tata"
+  },
+  {
+    "region": "TATA",
+    "agency": "Agence TATA",
+    "service": "Eau",
+    "address": "Avenue Mohamed V, Tata"
+  },
+  {
+    "region": "TATA",
+    "agency": "AS AKKA",
+    "service": "Electricité",
+    "address": "Avenue 6 novembre akka, Akka"
+  },
+  {
+    "region": "TATA",
+    "agency": "Agence AKKA",
+    "service": "Eau",
+    "address": "Avenue  6 novembre akka, Akka"
+  },
+  {
+    "region": "TATA",
+    "agency": "AS FOUM ZGUID",
+    "service": "Electricité",
+    "address": "Rue moulay abdellah, Foum Zguid"
+  },
+  {
+    "region": "TATA",
+    "agency": "Agence FOUM ZGUID",
+    "service": "Eau",
+    "address": "Rue moulay abdellah, Foum Zguid"
+  },
+  {
+    "region": "TATA",
+    "agency": "AS FOUM ELHISN",
+    "service": "Eau",
+    "address": "Centre Foum Elhisn, Foum Elhisn"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "ASP TIZNIT",
+    "service": "Electricité",
+    "address": "Quartier Administratif TIZNIT"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "AS AGLOU",
+    "service": "Electricité",
+    "address": "Quartier Administratif TIZNIT"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "AS ANZI",
+    "service": "Electricité",
+    "address": "Centre Commune  ANZI"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "AS TAFRAOUTE",
+    "service": "Electricité et Eau",
+    "address": "Route AMELENE TAFRAOUT"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "Agence TIZNIT",
+    "service": "Eau",
+    "address": "Quartier Administratif TIZNIT"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "Annexe AGLOU (Agence Tiznit)",
+    "service": "Eau",
+    "address": "DOUAR AMARAGH TNIN AGLOU"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "Agence TIGHMI",
+    "service": "Eau",
+    "address": "CENTRE COMMUNE TIGHMI"
+  },
+  {
+    "region": "TIZNIT",
+    "agency": "BO-AS TAFRAOUT",
+    "service": "Electricité et Eau",
+    "address": "ROUTE AMELENE TAFRAOUT"
+  },
+  {
+    "region": "CHTOUKA AIT BAHA",
+    "agency": "Agence BIOUGRA",
+    "service": "Eau",
+    "address": "LOT AL ISLAH"
+  },
+  {
+    "region": "CHTOUKA AIT BAHA",
+    "agency": "Agence SIDI BIBI",
+    "service": "Eau",
+    "address": "Réservoir surélevé route Tiznit centre SIDI BIBI"
+  },
+  {
+    "region": "CHTOUKA AIT BAHA",
+    "agency": "Agence MASSA",
+    "service": "Eau",
+    "address": "IKHORBAN MASSA"
+  },
+  {
+    "region": "CHTOUKA AIT BAHA",
+    "agency": "Agence AIT BAHA",
+    "service": "Eau",
+    "address": "Rue Tafraout AV Med V Quartier EL KASBA AIT BAHA"
+  },
+  {
+    "region": "Chtouka ait baha",
+    "agency": "ASP Biougra",
+    "service": "Electricité",
+    "address": "Lotissement al fallah BIOUGRA"
+  },
+  {
+    "region": "Chtouka ait baha",
+    "agency": "AS MASSA (A6A)",
+    "service": "Electricité",
+    "address": "Hay Zaouite Route Principale Massa"
+  },
+  {
+    "region": "Chtouka ait baha",
+    "agency": "AS AIT BAHA",
+    "service": "Electricité",
+    "address": "Avenue Med  V - AIT BAHA"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "ASP Taroudant",
+    "service": "Electricité",
+    "address": "Route de MARRAKECH km3 Mhaita"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS AOULOUZ",
+    "service": "Electricité",
+    "address": "BOUR LARABAA AOULOUZ"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS TALIOUINE",
+    "service": "Electricité",
+    "address": "BOUR LARABAA AOULOUZ"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS OULED BERHIL",
+    "service": "Electricité",
+    "address": "ROUTE NATIONNALE N°10 OULED BERHIL"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS OULED TEIMA",
+    "service": "Electricité",
+    "address": "HAY EL MOHAMMADI"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS IGHREM",
+    "service": "Electricité",
+    "address": "Avenue HASSAN II.IGHERM"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS SEBT ELGUERDANE",
+    "service": "Electricité",
+    "address": "HAY SAFSAF CENTRE EL GUERDANE"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "OULED BERHIL-BO",
+    "service": "Eau",
+    "address": "Quartier Administratif OULED BERHIL"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "OULED TEIMA-BO",
+    "service": "Eau",
+    "address": "Quartier Administratif"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS Taroudant-BO",
+    "service": "Eau",
+    "address": "Quartier Administratif M'HAITA"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "TALIOUINE-BO",
+    "service": "Eau",
+    "address": "Route Nationale N°10 TALIOUINE"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AIT IAAZA-BO",
+    "service": "Eau",
+    "address": "PAM BLOC 1"
+  },
+  {
+    "region": "TAROUDANT",
+    "agency": "AS SEBT ELGUERDANE",
+    "service": "Eau",
+    "address": "Lotissement Dhakla1 ELGUERDANE"
+  }
+]

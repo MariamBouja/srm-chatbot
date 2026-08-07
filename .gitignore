@@ -2,3 +2,14 @@ venv/
 .env
 __pycache__/
 .DS_Store
+
+# WordPress core, plugins and the generated SQLite DB are not tracked —
+# wordpress-demo/setup.sh reproduces the whole install from scratch. Only
+# our own theme code is source we actually wrote.
+wordpress-demo/*
+!wordpress-demo/setup.sh
+!wordpress-demo/wp-content/
+wordpress-demo/wp-content/*
+!wordpress-demo/wp-content/themes/
+wordpress-demo/wp-content/themes/*
+!wordpress-demo/wp-content/themes/srm-demo/
